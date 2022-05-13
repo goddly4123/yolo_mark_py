@@ -1,0 +1,5 @@
+show_grid=True
+last_label=True
+not_marked=True
+Search_and_jump=False
+drag_and_jump=False
